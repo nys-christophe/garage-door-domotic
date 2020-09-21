@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Porte de garage</string>
+    <string name="Complete">OK</string>
+    <string name="Error">Erreur</string>
+    <string name="Upload">Porte de garage</string>
+
+    <string name="service_already_running">Service is already running</string>
+    <string name="service_start_successfully">Service start successfully</string>
+    <string name="gps_enable">GPS enable</string>
+    <string name="please_turn_on_gps">Please turn on GPS</string>
+    <string name="ok">Ok</string>
+    <string name="service_shutdown">Fin du tracking</string>
+</resources>
