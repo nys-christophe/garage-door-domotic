@@ -6,6 +6,7 @@ Contournement temporaire des limitations Android pour obtenir un tracking GPS ef
 # Techno utilisées
 
 Android : Kotlin, AndroidX, [Fuel](https://github.com/kittinunf/fuel), [android-maps-utils](https://github.com/googlemaps/android-maps-utils)
+
 Raspberry Pi : Python, Flask
 
 # Installation
